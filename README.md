@@ -5,6 +5,7 @@ Program ini bertujuan agar user dapat mengakses data karyawan dari perusahaan PT
 
 Deskripsi kolom data karyawan pada program ini adalah sebagai berikut:
 
+
 | ID Karyawan | Nama Depan | Nama Belakang | Umur | Jabatan | Jenis Kelamin | Masa Kerja (tahun) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1 | Ega | Adiwena | 28 | Procurement Manager | Pria | 4 |
@@ -12,6 +13,7 @@ Deskripsi kolom data karyawan pada program ini adalah sebagai berikut:
 | 3 | Kautsar | Prana | 27 | Operational Manager | Pria | 3 |
 | 4 | Lingga | Pradinda | 31 | Operational Director | Wanita | 7 |
 | 5 | Haris | Soleh | 35 | President Director | Pria | 4 |
+
 
 Dari data karyawan tersebut, dibuat sebuah program dengan pilihan menu seperti ini:
 
